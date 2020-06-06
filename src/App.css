@@ -1,8 +1,12 @@
 .App {
   text-align: center;
 }
-ody {
-  background-color: #f4f5fb;
+body {
+  background-color: #e8e8e8;
+}
+
+img {
+  border-radius: 100%;
 }
 
 .App-logo {
